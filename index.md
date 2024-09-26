@@ -31,6 +31,4 @@ This project demonstrates how to set up a home lab for Elastic Stack SIEM (Secur
 ### Conclusion
 In this project, I configured Elastic SIEM with a Kali Linux VM to collect, monitor, and analyze security logs. Using **Nmap** to generate security events, I was able to query the logs, visualize the data, and set up real-time alerts. This lab provides hands-on experience in security monitoring and is a practical step toward enhancing skills required for a security analyst or engineer role.
 
-```
-The final element.
-```
+
