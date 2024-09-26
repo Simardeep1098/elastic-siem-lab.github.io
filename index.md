@@ -49,6 +49,7 @@ This screenshot displays the Logs section in the Observability area of Elastic C
 
 <div>
     ![](https://github.com/Simardeep1098/elastic-siem-lab.github.io/blob/main/Elastic%20SIEM%20Kali/sc4-1.png?raw=true)
+    
     ![](https://github.com/Simardeep1098/elastic-siem-lab.github.io/blob/main/Elastic%20SIEM%20Kali/sc4-2.png?raw=true)
 </div>
 
