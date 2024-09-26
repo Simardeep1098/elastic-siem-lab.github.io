@@ -58,7 +58,7 @@ These screenshots highlight the details of a log entry, where the host IP matche
 
 This screenshot presents the graphical dashboard displaying logs and activities from the Kali Linux machine. The dashboard refreshes every five seconds, providing real-time insights into the ongoing activities and facilitating immediate monitoring of the system's status. This dynamic visualization is crucial for analyzing the effectiveness of the logging and monitoring solutions implemented in the Elastic Cloud environment.
 
-### Email Alert for nmap Scan Detection
+### Email Alert for **nmap** Scan Detection
 
 ![](https://github.com/Simardeep1098/elastic-siem-lab.github.io/blob/main/Elastic%20SIEM%20Kali/sc6.png?raw=true)
 
