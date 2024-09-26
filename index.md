@@ -1,122 +1,36 @@
 ---
 layout: default
 ---
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+<div>
+    <a href="https://www.linkedin.com/in/simardeep1098"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/Simardeep1098"><img src="https://img.shields.io/badge/-GitHub-000000?&style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
 
 
-### Definition lists can be used with HTML syntax.
+### Objective
+This project demonstrates how to set up a home lab for Elastic Stack SIEM (Security Information and Event Management) using a Kali Linux VM and the Elastic Cloud platform. The project includes configuring an Elastic Agent, generating security events, analyzing logs in the Elastic SIEM, creating visualizations, and setting up alerts for real-time threat detection. The goal is to practice security monitoring and incident response techniques using Elastic Stack.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+---
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+### Skills Learned
+- SIEM Deployment and Configuration
+- Log Analysis and Event Monitoring
+- Security Event Alerting
+- Data Visualization and Dashboard Creation
+
+---
+
+### Tools Used
+- **Elastic SIEM (Elastic Stack)**: Security Information and Event Management
+- **Kali Linux**: Virtual Machine for testing and generating security events
+- **VirtualBox**: Virtualization platform for running the Kali Linux VM
+- **Nmap**: Security event generation (network scanning tool)
+- **Elastic Agent**: Collecting and forwarding logs from the VM to Elastic SIEM
+
+---
+
+### Conclusion
+In this project, I configured Elastic SIEM with a Kali Linux VM to collect, monitor, and analyze security logs. Using Nmap to generate security events, I was able to query the logs, visualize the data, and set up real-time alerts. This lab provides hands-on experience in security monitoring and is a practical step toward enhancing skills required for a security analyst or engineer role.
 
 ```
 The final element.
