@@ -23,8 +23,9 @@ This project demonstrates how to set up a home lab for Elastic Stack SIEM (Secur
 - **Kali Linux**: Virtual Machine for testing and generating security events
 - **VirtualBox**: Virtualization platform for running the Kali Linux VM
 - **Elastic Agent**: Collecting and forwarding logs from the VM to Elastic SIEM
+- 
 
-##Steps
+## Steps
 
 ### Elastic Agent Installation on Kali Linux
 
@@ -37,7 +38,6 @@ This screenshot captures the Kali Linux terminal executing commands to integrate
 ![](your-activity-generation-commands-screenshot-url)
 
 This screenshot showcases two commands executed in the Kali Linux terminal to create network activity and generate logs for monitoring. The first command performs a comprehensive port scan on the localhost, while the second command initiates a SYN scan. These commands are instrumental in simulating activity, thereby enabling the effective observation of logging mechanisms and monitoring capabilities within the Elastic Cloud environment.
-
 
 ### Logs Overview in Elastic Cloud
 
