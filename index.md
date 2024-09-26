@@ -35,7 +35,7 @@ This screenshot captures the Kali Linux terminal executing commands to integrate
 
 ### Activity Generation Commands in Kali Linux
 
-![(https://github.com/Simardeep1098/elastic-siem-lab.github.io/blob/main/Elastic%20SIEM%20Kali/sc2.png?raw=true)]
+![](https://github.com/Simardeep1098/elastic-siem-lab.github.io/blob/main/Elastic%20SIEM%20Kali/sc2.png?raw=true)
 
 This screenshot showcases two commands executed in the Kali Linux terminal to create network activity and generate logs for monitoring. The first command performs a comprehensive port scan on the localhost, while the second command initiates a SYN scan. These commands are instrumental in simulating activity, thereby enabling the effective observation of logging mechanisms and monitoring capabilities within the Elastic Cloud environment.
 
