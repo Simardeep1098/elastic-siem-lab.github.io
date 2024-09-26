@@ -49,7 +49,7 @@ This screenshot displays the Logs section in the Observability area of Elastic C
 
 ![](https://github.com/Simardeep1098/elastic-siem-lab.github.io/blob/main/Elastic%20SIEM%20Kali/sc4-1.png?raw=true) ![](https://github.com/Simardeep1098/elastic-siem-lab.github.io/blob/main/Elastic%20SIEM%20Kali/sc4-2.png?raw=true)
 
-These screenshots highlight the details of a specific log entry, where the host IP matches that of the Kali Linux machine. It provides in-depth information about the logged activity, including timestamps and the nature of the events, allowing for targeted analysis and investigation of actions performed on the host system. This detail is crucial for understanding user activities and detecting any potential security threats.
+These screenshots highlight the details of a log entry, where the host IP matches that of the Kali Linux machine. It provides in-depth information about the logged activity, including timestamps and the nature of the events, allowing for targeted analysis and investigation of actions performed on the host system. This detail is crucial for understanding user activities and detecting any potential security threats.
 
 ### Graphical Representation of Logs and Activities
 
